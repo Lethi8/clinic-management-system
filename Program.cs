@@ -144,7 +144,7 @@ namespace Patient_system
         }
         class PatientInformation
         {
-            static string filename = "Patient_Information.txt"; //file anme where information will be printed to
+            static string filename = "Patient_Information.txt"; //file name where information will be printed to
 
             //Method to write sample data to Patient_information.txt
             public static void WriteToFile()
