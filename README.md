@@ -7,14 +7,14 @@ The system allows users to add, remove, search, and display patient information.
 
 This project demonstrates foundational software development concepts such as class design, collections, LINQ queries, file I/O operations, and exception handling in C#.
 
-##Features
+# Features
 - Add new patients
 - Remove existing patients
 - Search patients by name
 - Display all registered patients
 - Export patient information to a text file
 
-##Technologies Used
+# Technologies Used
 - C#
 - .NET Console Application
 - Object-Oriented Programming (OOP)
